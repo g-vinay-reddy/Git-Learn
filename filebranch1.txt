@@ -1,2 +1,6 @@
 file for branch1
+<<<<<<< HEAD
 changes in master
+=======
+changes in branch1
+>>>>>>> branch1
